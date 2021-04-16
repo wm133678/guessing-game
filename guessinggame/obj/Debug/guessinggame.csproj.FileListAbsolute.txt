@@ -1,0 +1,10 @@
+C:\Users\wm133678\source\repos\guessinggame\guessinggame\bin\Debug\guessinggame.exe.config
+C:\Users\wm133678\source\repos\guessinggame\guessinggame\bin\Debug\guessinggame.exe
+C:\Users\wm133678\source\repos\guessinggame\guessinggame\bin\Debug\guessinggame.pdb
+C:\Users\wm133678\source\repos\guessinggame\guessinggame\obj\Debug\guessinggame.csprojAssemblyReference.cache
+C:\Users\wm133678\source\repos\guessinggame\guessinggame\obj\Debug\guessinggame.GuessingGame.resources
+C:\Users\wm133678\source\repos\guessinggame\guessinggame\obj\Debug\guessinggame.Properties.Resources.resources
+C:\Users\wm133678\source\repos\guessinggame\guessinggame\obj\Debug\guessinggame.csproj.GenerateResource.cache
+C:\Users\wm133678\source\repos\guessinggame\guessinggame\obj\Debug\guessinggame.csproj.CoreCompileInputs.cache
+C:\Users\wm133678\source\repos\guessinggame\guessinggame\obj\Debug\guessinggame.exe
+C:\Users\wm133678\source\repos\guessinggame\guessinggame\obj\Debug\guessinggame.pdb
